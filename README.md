@@ -3,6 +3,10 @@
 
 This is project to analyze the whatsapp chat of two individual persons or for whole group.
 
+## Requirements
+- Python3 / Anaconda3
+- machine learning libraries installed
+
 
 ## How to Use:
 
